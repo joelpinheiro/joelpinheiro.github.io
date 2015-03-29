@@ -1,2 +1,23 @@
-name: Joel Pinheiro
-markdown: kramdown
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Joel Pinheiro
+tagline:
+description:
+url:              http://joelpinheiro.com
+
+author:
+  name:           'Joel Pinheiro'
+  url:            https://twitter.com/joelcpinheiro
+
+paginate:         5
+
+# Custom vars
+
+github:
+  repo:          https://github.com/joelpinheiro
