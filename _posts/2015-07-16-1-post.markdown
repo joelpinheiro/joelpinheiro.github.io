@@ -9,4 +9,4 @@ DataPreview was one of the tools developed in Human Monitoring project. DataPrev
 
 [Preview](https://www.youtube.com/watch?v=uXBjSdIY_EU)
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/uXBjSdIY_EU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uXBjSdIY_EU" frameborder="0" allowfullscreen></iframe>
