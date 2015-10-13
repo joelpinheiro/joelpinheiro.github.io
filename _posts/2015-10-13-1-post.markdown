@@ -1,0 +1,17 @@
+---
+layout: post
+title: "HTML5 Presentations"
+date: 2015-10-13 10:00
+---
+
+![Cover](https://mdn.mozillademos.org/files/3563/HTML5_Logo_128.png)
+
+To add a new alternative to old fashion Microsoft Power Point, new presentations models are coming with HTML5 powered by JavaScript and CSS3 2D/3D transitions and animations.
+
+HTML5 presentations have a lot of advantages such: as adding quicker HTML tags instead of working with WYSIWYG interface; update the presentation just require a text editor; distribution of software without viewer app.
+
+[Impress.js](https://github.com/impress/impress.js?utm_source=twitterfeed&utm_medium=twitterµ) is one of the best with its fancy prezi style transitions. Slides are arranged in a 3D space and view rotates accordingly. [Demo](http://impress.github.io/impress.js/#/bored).
+
+[Reveal.js](https://github.com/hakimel/reveal.js) is another framework to easily create beatiful presentations using HTML5. The best features of this framework are nested slides, markdown contents, PDF export, speaker notes. There is a online editor to serve as alternative to HTML and Markdown directly management, [slides.com](http://slides.com/). [Demo](http://lab.hakim.se/reveal-js/#/).
+
+From what I saw on the web there are others but not so good as the two ones. [Deck.js](http://imakewebthings.com/deck.js/docs/) is nice to code presentations because it's good to emphasize code snippets ( [Demo](http://imakewebthings.com/deck.js/) ). [Fathom.js](http://markdalgleish.com/projects/fathom/) is another, but it is more used for mock presentations ( [Demo](http://markdalgleish.com/presentations/jquerymobile/) ).
