@@ -1,2 +1,0 @@
-# Service Frameworks SOTA
-
