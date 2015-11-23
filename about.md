@@ -11,4 +11,4 @@ title: About
 
 I'm Joel Pinheiro. I live in Aveiro, Portugal and currently studying and researching at Aveiro University. I'm joelpinheiro on most services.
 
-<a href="https://www.linkedin.com/in/joelpinheiro" rel="some text">![Foo](./public/icons/32/social-011_linkedin.png)</a>
+<a href="https://www.linkedin.com/in/joelpinheiro" rel="some text">![Foo](http://joelpinheiro.github.io/public/icons/32/social-011_linkedin.png)</a>
