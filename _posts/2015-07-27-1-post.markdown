@@ -1,9 +1,0 @@
----
-layout: post
-title: "Book: Animal Farm"
-date: 2015-07-27 20:00
----
-
-![Cover](http://urbanmilwaukee.com/wp-content/uploads/2013/02/AnimalFarm.jpg)
-
-Simple but powerful. Animal Farm is a scathing criticism of Communism, or more specifically, the Communist system of the former USSR. Himself a Socialist, Orwell detested the way in which its ideals were twisted and manipulated by those in power in the USSR, resulting in a terrible fate for the common people.

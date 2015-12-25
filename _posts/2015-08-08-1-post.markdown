@@ -1,9 +1,0 @@
----
-layout: post
-title: "Book: Metamorphose"
-date: 2015-08-07 20:00
----
-
-![Cover](http://www.cafardcosmique.com/IMG/jpg/Kafka.Metamorphose.EN.jpg)
-
-Kafka tries to explore the reader imagination of the experience of wake up one morning with one's mind fine but one's body changed just like an insect. The day before Gregor Samsa was a hardworking salesman os his dependant family.
