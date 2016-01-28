@@ -9,4 +9,4 @@ Catch the Thief was one project developed in Object Oriented Concurrent Programm
 [GitHub](https://github.com/joelpinheiro/CatchThief)
 [Preview](https://www.youtube.com/watch?v=bFvfBsKo904)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=bFvfBsKo904" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bFvfBsKo904" frameborder="0" allowfullscreen></iframe>
