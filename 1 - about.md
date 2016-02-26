@@ -7,7 +7,7 @@ title: About
 
 <img src="/public/current_picture.png" alt="color photo ftl"/>
 
-Hi, I'm a **Software Engineer** from Aveiro, Portugal. I'm currently finishing my master and I hold a bachelor's degree in **Computer and Telematics Engineering** from Aveiro University.
+Hi, I'm a **Software Engineer** from Aveiro, Portugal. I'm **currently finishing my master** and I hold a bachelor's degree in **Computer and Telematics Engineering** from Aveiro University.
 
 Currently, I'm working at **Instituto de Telecomunicações** where I'm finishing my master thesis. I spend most of my time crafting and working on awesome projects. I define me as a **full stack** / integration engineer with know how with **software architecture**, **scalability** and **performance**. I am able to adapt to multicultural environments, gained through working experience abroad (Netherlands) having to deal with different nationalities in the same project. 
 
