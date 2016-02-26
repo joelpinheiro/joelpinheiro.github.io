@@ -3,6 +3,18 @@ layout: page
 title: Skills
 ---
 
+<div style="float: right;">
+
+<img style="float: right;" src="../public/languages/java.gif">
+<img style="float: right;" src="../public/languages/python.jpeg">
+
+<br>
+
+<img style="float: right;" src="../public/languages/cplusplus.png">
+<img style="float: right;" src="../public/languages/js.png">
+
+</div>
+
 
 <h4>Programming Languages</h4>
 * Java
@@ -13,11 +25,22 @@ title: Skills
 * ObjectiveC
 * Swift
 
-
 <h4>Other Languages</h4>
 * SQL
 * HTML5/CSS3
 
+
+<div style="float: right;">
+
+<img style="float: right;" src="../public/languages/electron.jpeg">
+<img style="float: right;" src="../public/languages/flask.png">
+
+<br>
+
+<img style="float: right;" src="../public/languages/nodejs.png">
+<img style="float: right;width:150px; height:150px" src="../public/languages/spring.png">
+
+</div>
 
 <h4>Frameworks</h4>
 
@@ -33,6 +56,18 @@ title: Skills
 * Express
 * Spring
 
+<div style="float: right;">
+
+<img style="float: right;" src="../public/languages/angularjs.jpeg">
+<img style="float: right;" src="../public/languages/mongodb.png">
+
+<br>
+
+<img style="float: right;" src="../public/languages/docker.png">
+<img style="float: right;" src="../public/languages/sqlserver.jpeg">
+
+</div>
+
 <h3>Frontend</h3>
 * AngularJS
 * JQuery
@@ -42,7 +77,7 @@ title: Skills
 * SQLServer
 * SQLite
 
-<h4>Tools</h4>
+<h3>Tools</h3>
 * Docker
 * NGINX
 * LaTeX

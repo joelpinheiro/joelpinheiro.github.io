@@ -3,7 +3,14 @@ layout: page
 title: Resumé
 ---
 
+# Education
 
+### Bachelor and Master's' Degree of Computer and Telematics Engineer
+#### Aveiro University
+<h7>Favorite Courses: Operating Systems, Algorithms And Complexity, Programming I-III, Computer Architecture, Data Bases, Network Architecture, Security, Distributed Systems , Concurrent Programming, Audio And Video Coding
+- 2011 - 2016</h7>
+
+# Work Experience
 
 ### JavaScript Developer - Researcher and Software Engineer
 #### Instituto de Telecomunicações, Aveiro
@@ -27,9 +34,3 @@ title: Resumé
 Jul 2009 to Oct 2009</h7>
 
 
-# Education
-
-### Bachelor and Master's' Degree of Computer and Telematics Engineer
-#### Aveiro University
-<h7>TODO 
-2011 - 2016</h7>
