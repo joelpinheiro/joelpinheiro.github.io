@@ -5,7 +5,7 @@ title: About
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
-<img src="/public/current_picture.jpg" alt="color photo ftl" width="186" height="269" />
+<div style="text-align:center"><img src="/public/current_picture.png" alt="color photo ftl"/></div>
 
 <h4>Joel's bio</h4>
 
@@ -19,14 +19,14 @@ My hobbies, besides developing and all tech stuff, include sports, music and tra
 
 CONCURRENT AND ASYNC PROGRAMMING
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellesque imperdiet. Nulla lacinia iaculis nulla.
+TODO
 
 SECURITY
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellesque imperdiet. Nulla lacinia iaculis nulla.
+TODO
 
 DATABASES
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellesque imperdiet. Nulla lacinia iaculis nulla.
+TODO
 
 <a href="https://www.linkedin.com/in/joelpinheiro" rel="some text">![Foo](http://joelpinheiro.github.io/public/icons/32/social-011_linkedin.png)</a>
