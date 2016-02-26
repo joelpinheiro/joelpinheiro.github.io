@@ -3,23 +3,25 @@ layout: page
 title: Resumé
 ---
 
+
 <code>
-<!-- Resume Section -->
+
+
 <section id="experience" class="section-content bg2">
 <div class="container">
 <div class="row">
-<!-- Section title -->
+
 <div class="section-title item_bottom text-center">
 <div>
 <span class="fa fa-book fa-2x"></span>
 </div>
 <h1>My <span>Resume</span></h1>
 </div>
-<!-- End Section title -->
+
 </div>
 <div class="row">
 <ul class="timeline list-unstyled">
-<!-- History Year -->
+
 <li class="title">Present</li>
 <li class="note item_right">
 <h4>JavaScript Developer - Researcher and Software Engineer</h4>
@@ -61,7 +63,7 @@ Application: Calypso (financial solution - Java Web Start Application) Projects:
 Jul 2009 to Oct 2009 </span>
 <span class="arrow fa fa-play"></span>
 </li>
-<!-- Education -->
+
 <li class="title">Education</li>
 <li class="note item_right">
 <h4>Bachelor and Master's' Degree of Computer and Telematics Engineering</h4>
@@ -73,13 +75,13 @@ Lorem Ipsum. This is Photoshop's version Lorem Ipsum. Proin gravida nibh vel vel
 2011 - 2016 </span>
 <span class="arrow fa fa-play"></span>
 </li>
-<!-- Start icon -->
+
 <li class="start fa fa-bookmark"></li>
 <li class="clear"></li>
 </ul>
 </div>
 </div>
 </section>
-<!-- End Experience Timeline Section -->
+
 
 </code>

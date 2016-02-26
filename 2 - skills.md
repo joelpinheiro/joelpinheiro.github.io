@@ -41,3 +41,11 @@ title: Skills
 * MongoDB
 * SQLServer
 * SQLite
+
+<h4>Tools</h4>
+* Docker
+* NGINX
+* LaTeX
+* Puppet
+* Ansible
+* Chef
