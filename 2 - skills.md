@@ -83,3 +83,4 @@ title: Skills
 * Puppet
 * Ansible
 * Chef
+* Vagrant
