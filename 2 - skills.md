@@ -55,6 +55,7 @@ title: Skills
 * NodeJS
 * Express
 * Spring
+* Jax-RS
 
 <h3>Frontend</h3>
 * AngularJS
