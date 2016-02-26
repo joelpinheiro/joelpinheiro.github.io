@@ -29,7 +29,11 @@ title: Skills
 * SQL
 * HTML5/CSS3
 
+<h4>Frameworks</h4>
 
+
+
+<h3>Backend/Frontend</h3>
 <div style="float: right;">
 
 <img style="float: right;" src="../public/languages/electron.jpeg">
@@ -41,10 +45,6 @@ title: Skills
 <img style="float: right;width:150px; height:150px" src="../public/languages/spring.png">
 
 </div>
-
-<h4>Frameworks</h4>
-
-<h3>Backend/Frontend</h3>
 * Flask
 * Django
 * CherryPy
@@ -56,6 +56,11 @@ title: Skills
 * Express
 * Spring
 
+<h3>Frontend</h3>
+* AngularJS
+* JQuery
+
+<h3>Databases</h3>
 <div style="float: right;">
 
 <img style="float: right;" src="../public/languages/angularjs.jpeg">
@@ -67,12 +72,6 @@ title: Skills
 <img style="float: right;" src="../public/languages/sqlserver.jpeg">
 
 </div>
-
-<h3>Frontend</h3>
-* AngularJS
-* JQuery
-
-<h3>Databases</h3>
 * MongoDB
 * SQLServer
 * SQLite
