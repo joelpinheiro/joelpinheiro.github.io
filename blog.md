@@ -1,7 +1,6 @@
 ---
-layout: page
-<<<<<<< HEAD
-title: home
+layout: default
+title: Blog
 ---
 
 
