@@ -8,7 +8,7 @@ title: Skills
 <br>
 
 --- | --- | --- | ---
-<img src="../public/languages/java.gif"> | <img src="../public/languages/python.jpeg"> | <img src="../public/languages/js.png"> | <img src="../public/languages/cplusplus.png">
+<img src="../public/languages/java.png"> I developed in Java for several academic courses and works. It becomes one of my favourite languages. It is the language that I feel more confortable and the one I like the most!| <img src="../public/languages/python.png"> | <img src="../public/languages/js.png"> | <img src="../public/languages/cplusplus.png">
 <img src="../public/languages/csharp.png"> | <img src="../public/languages/c.png"> | <img src="../public/languages/objc.png"> | <img src="../public/languages/swift.jpeg"> 
 
 
