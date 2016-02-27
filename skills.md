@@ -3,30 +3,36 @@ layout: page
 title: Skills
 ---
 
-<div style="float: right;">
-
-<img style="float: right;" src="../public/languages/java.gif">
-<img style="float: right;" src="../public/languages/python.jpeg">
+<h3>Programming Languages</h3>
 
 <br>
 
-<img style="float: right;" src="../public/languages/cplusplus.png">
-<img style="float: right;" src="../public/languages/js.png">
-
-</div>
+--- | --- | --- | ---
+<img src="../public/languages/java.gif"> | <img src="../public/languages/python.jpeg"> | <img src="../public/languages/js.png"> | <img src="../public/languages/cplusplus.png">
+<img src="../public/languages/csharp.png"> | <img src="../public/languages/c.png"> | <img src="../public/languages/objc.png"> | <img src="../public/languages/swift.jpeg"> 
 
 
 <h4>Programming Languages</h4>
-* Java
-* C/C++
-* Python
-* JavaScript
+<ul>
+<li>
+<b><h7 style="color:red">Java - 10/10</h7></b>
+</li>
+</ul>
+
+* **Java**
+* **C/C++**
+* **Python**
+* **JavaScript**
 * C#
 * ObjectiveC
+
+---
 
 <h4>Other Languages</h4>
 * SQL
 * HTML5/CSS3
+
+---
 
 <h4>Frameworks</h4>
 
@@ -50,15 +56,21 @@ title: Skills
 * Electron
 * SocketIO
 
+---
+
 <h3>Backend</h3>
 * NodeJS
 * Express
 * Spring
 * Jax-RS
 
+---
+
 <h3>Frontend</h3>
 * AngularJS
 * JQuery
+
+---
 
 <h3>Databases</h3>
 <div style="float: right;">
@@ -76,6 +88,8 @@ title: Skills
 * SQLServer
 * SQLite
 
+---
+
 <h3>Tools</h3>
 * Docker
 * NGINX
@@ -84,3 +98,5 @@ title: Skills
 * Ansible
 * Chef
 * Vagrant
+
+---
