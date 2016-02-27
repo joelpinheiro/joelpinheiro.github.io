@@ -1,37 +1,26 @@
 ---
-layout: default
-title: Blog
+layout: page
+title: About
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+<span><img src="/public/current_picture.png" alt="color photo ftl"/></span>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+Hi, I'm a **Software Engineer** from Aveiro, Portugal. I'm **currently finishing my master** and I hold a bachelor's degree in **Computer and Telematics Engineering** from Aveiro University.
+
+Currently, I'm working at **Instituto de Telecomunicações** where I'm finishing my master thesis. I spend most of my time crafting and working on awesome projects. I consider myself as a **full stack** / integration engineer with know how with **software architecture**, **scalability** and **performance**. I am able to adapt to multicultural environments, gained through working experience abroad (Netherlands) having to deal with different nationalities in the same project. 
+
+My hobbies, besides developing and all tech stuff, include sports, music and travelling.
+
+<h3>Interests</h3>
+
+* Concurrent and Async Programming
+* Security
+* Databases
+* Finance
+
+<br>
+
+<a href="https://www.linkedin.com/in/joelpinheiro" rel="some text">![Foo](http://joelpinheiro.github.io/public/icons/32/social-011_linkedin.png)</a> 
