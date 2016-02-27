@@ -7,8 +7,6 @@ title: About
 
 <span><img src="/public/current_picture.png" alt="color photo ftl"/></span>
 
-### 
-
 
 Hi, I'm a **Software Engineer** from Aveiro, Portugal. I'm **currently finishing my master** and I hold a bachelor's degree in **Computer and Telematics Engineering** from Aveiro University.
 
