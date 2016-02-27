@@ -23,7 +23,6 @@ title: Skills
 * JavaScript
 * C#
 * ObjectiveC
-* Swift
 
 <h4>Other Languages</h4>
 * SQL
