@@ -9,24 +9,8 @@ title: Skills
 
 --- | --- | --- | ---
 <img src="../public/languages/java.png"> Projects: Concurrent Distributed System implemented using different architectures (standalone, messages, RMI) - <a href="https://github.com/joelpinheiro/Craft-Store-Distributed-System">GitHub</a>| <img src="../public/languages/python.png"> Projects: Cryptographic File Protection with Remote user Authentication and Authorization with/without Smartcard - <a href="https://github.com/joelpinheiro/Safebox-Smartcard-Auth">GitHub</a>  | <img src="../public/languages/js.png"><br>Projects: a cross-platform standalone trading application with an embeeded algorithmic trading system in Lua Language.  | <img src="../public/languages/cplusplus.png"> Projects: lossy and lossless codecs for audio and video in this language. All of the source code is here - <a href="https://github.com/joelpinheiro/audio-video-codification">GitHub</a>
-<img src="../public/languages/csharp.png"> | <img src="../public/languages/c.png"> | <img src="../public/languages/objc.png"> | <img src="../public/languages/swift.jpeg"> 
+<img src="../public/languages/csharp.png"> Projects: YouInteract is an application that, with a public screen and controlled through gestures captured by a motion sensor, is placed at the entrance of the Department DETI - <a href="https://github.com/YouInteract">GitHub</a>  | <img src="../public/languages/c.png">Projects: Airport activity simulation - Concorrent Programming (semaphores and Shared Memory) using C. Project made for Operating Systems Course - <a href="https://github.com/joelpinheiro/airport-rhapsody">GitHub</a> | <img src="../public/languages/objc.png"> Apart from tutorials I had made on the Internet I never work in a big project with this language. | <img src="../public/languages/swift.jpeg"> I assist the Harvard lessons on Mobile Development with swift but I never had work with this language.
 
-
-<h4>Programming Languages</h4>
-<ul>
-<li>
-<b><h7 style="color:red">Java - 10/10</h7></b>
-</li>
-</ul>
-
-* **Java**
-* **C/C++**
-* **Python**
-* **JavaScript**
-* C#
-* ObjectiveC
-
----
 
 <h4>Other Languages</h4>
 * SQL
