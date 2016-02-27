@@ -1,37 +1,27 @@
 ---
-layout: default
-title: Home
+layout: page
+title: About
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+<span><img src="/public/current_picture.png" alt="color photo ftl"/></span>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+Hi, I'm a <b>Software Engineer</b> from Aveiro, Portugal. I'm <b>currently finishing my master</b> and I hold a bachelor's degree in <b>Computer and Telematics Engineering</b> from Aveiro University.
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+Currently, I'm working at <b>Instituto de Telecomunicações</b> where I'm finishing my master thesis. I spend most of my time crafting and working on awesome projects. I consider myself as a <b>full stack</b> / integration engineer with know how with <b>software architecture</b>, <b>scalability</b> and <b>performance</b>. I am able to adapt to multicultural environments, gained through working experience abroad (Netherlands) having to deal with different nationalities in the same project. 
+
+My hobbies, besides developing and all tech stuff, include sports, music and travelling.
+
+<h3>Interests</h3>
+
+<ul>
+    <li>Concurrent and Async Programming</li>
+    <li>Security</li>
+    <li>Databases</li>
+    <li>Finance</li>
+</ul>
+
+<br>
+
+<a href="https://www.linkedin.com/in/joelpinheiro" rel="some text"><img src="http://joelpinheiro.github.io/public/icons/32/social-011_linkedin.png"/></a> 

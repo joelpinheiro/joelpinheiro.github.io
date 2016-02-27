@@ -34,7 +34,7 @@ title: Resumé
 </div>
 
 ### J2EE Developer
-#### FIS, Amsterdam (Netherlands)
+#### FIS/IZ, Amsterdam (Netherlands)
 <h7>Project: Online Banking Solution Technologies: J2EE (Spring and Struts Frameworks, Spring Web Flow, Tomcat), GTM Database, HTML5, JavaScript, CSS
 - **Jul 2014 to Dec 2014**</h7>
 
