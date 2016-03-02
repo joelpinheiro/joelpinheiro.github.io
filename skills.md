@@ -40,6 +40,10 @@ title: Skills
 
 <br>
 
+I would like to play with Erlang, Clojure, Lisp, Haskell, Groovy, F#, Scala, Golang or R.
+
+<br>
+
 <h4>Other Languages</h4>
 * SQL
 * HTML5/CSS3
