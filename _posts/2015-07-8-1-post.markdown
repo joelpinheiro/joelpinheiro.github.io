@@ -1,9 +1,0 @@
----
-layout: post
-title: "iTrading"
-date: 2015-07-8 13:00
----
-
-
-
-Next September, I am going to start my master's degree thesis on financial trading. I initially became interested in this subject after working for some time in Calypso software, developing a refined taste about how all these financial products come together and how people make profit with those. As this interest never faded, some time ago I decided to make from iTrading my thesis main subject. iTrading will be an innovative product as there aren't any multi-platform financial products. There's a hole in the market, which can be suppressed by making profit with iTrading. There isn't any native trading solution for OS X, for instance. This software will be able to give to an economist or financial enthusiast a platform to trade in FOREX and CFD's, providing all advanced trading tools, plots analysis and real-time prices. As of now, I'm researching for all the other competitive applications in this area, to better understand what is missing in the market (besides a multi-platform) and where the opportunity really is. I will write a bit more about this in the future, since I am really enthusiastic.
