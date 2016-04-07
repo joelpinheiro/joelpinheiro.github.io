@@ -272,7 +272,7 @@
                             <div class="pricing-row"><span class="pricing-value"><span class="pricing-option"><i class="fa fa-check"></i>Open Orders</span></span></div>
                             <div class="pricing-row"><span class="pricing-value"><span class="pricing-option"><i class="fa fa-check"></i>Lua Algorithmic Trading Embedded</span></span></div>
                             <div class="pricing-row button-container">
-                                <a href="https://www.dropbox.com/s/sjqr4s3txj5pn2b/iTrading-linux-x64.zip?dl=0" class="secondary-button secondary-button-inverse">Download</a>
+                                <a href="https://www.dropbox.com/s/sjqr4s3txj5pn2b/iTrading-linux-x64.zip?dl=0" onclick="trackOutboundLink('https://www.dropbox.com/s/sjqr4s3txj5pn2b/iTrading-linux-x64.zip?dl=0'); return false;" class="secondary-button secondary-button-inverse">Download</a>
                             </div>
                         </div>
                     </div>
@@ -293,7 +293,7 @@
                             <div class="pricing-row"><span class="pricing-value"><span class="pricing-option"><i class="fa fa-check"></i>Portolio & Account Summary</span></span></div>
                             <div class="pricing-row"><span class="pricing-value"><span class="pricing-option"><i class="fa fa-check"></i>Open Orders</span></span></div>
                             <div class="pricing-row"><span class="pricing-value"><span class="pricing-option"><i class="fa fa-check"></i>Lua Algorithmic Trading Embedded</span></span></div>                            <div class="pricing-row button-container">
-                                <a href="https://www.dropbox.com/s/34ifrgntg9ayacq/iTrading-darwin-x64.zip?dl=0" class="secondary-button">Download</a>
+                                <a href="https://www.dropbox.com/s/34ifrgntg9ayacq/iTrading-darwin-x64.zip?dl=0" onclick="trackOutboundLink('https://www.dropbox.com/s/34ifrgntg9ayacq/iTrading-darwin-x64.zip?dl=0'); return false;" class="secondary-button">Download</a>
                             </div>
                         </div>
                     </div>
@@ -314,7 +314,7 @@
                             <div class="pricing-row"><span class="pricing-value"><span class="pricing-option"><i class="fa fa-check"></i>Portolio & Account Summary</span></span></div>
                             <div class="pricing-row"><span class="pricing-value"><span class="pricing-option"><i class="fa fa-check"></i>Open Orders</span></span></div>
                             <div class="pricing-row"><span class="pricing-value"><span class="pricing-option"><i class="fa fa-check"></i>Lua Algorithmic Trading Embedded</span></span></div>                            <div class="pricing-row button-container">
-                                <a href="https://www.dropbox.com/s/o0l35knmm0ej6kn/iTrading-win32-x64.zip?dl=0" class="secondary-button secondary-button-inverse">Download</a>
+                                <a href="https://www.dropbox.com/s/o0l35knmm0ej6kn/iTrading-win32-x64.zip?dl=0" onclick="trackOutboundLink('https://www.dropbox.com/s/o0l35knmm0ej6kn/iTrading-win32-x64.zip?dl=0'); return false;" class="secondary-button secondary-button-inverse">Download</a>
                             </div>
                         </div>
                     </div>
@@ -471,6 +471,21 @@
         <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
         <!-- custom script -->
         <script src="js/scripts.js"></script>
+        
+        <script>
+        /**
+        * Função que controla um clique num link de saída no Analytics.
+        * Esta função seleciona uma cadeia de URL válida como um argumento e utiliza essa cadeia de URL
+        * como a etiqueta do evento. A definição do método de transporte como 'beacon' permite que o resultado seja
+        * enviado com 'navigator.sendBeacon' num navegador que a suporte.
+        */
+        var trackOutboundLink = function(url) {
+        ga('send', 'event', 'outbound', 'click', url, {
+            'transport': 'beacon',
+            'hitCallback': function(){document.location = url;}
+        });
+        }
+        </script>
         
         <script>
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
